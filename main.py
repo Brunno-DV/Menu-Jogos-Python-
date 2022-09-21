@@ -1,7 +1,7 @@
 import random
 
 print("************************************")
-print("Olá, bem vindo ao jogo de advinhação")
+print("Olá, bem vindo ao jogo de advinhação - V1.0")
 print("************************************")
 
 num_sec = random.randrange(1, 101)
