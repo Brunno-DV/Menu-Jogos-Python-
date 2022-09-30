@@ -49,7 +49,7 @@ def jogar():
       pontos_perdidos = abs(num_sec - chute)
       pontos = pontos - pontos_perdidos
     
-  print("Fim do jogo")
+  print("Fim do jogo!")
 
 if(__name__ == "__main__"):
   jogar()
